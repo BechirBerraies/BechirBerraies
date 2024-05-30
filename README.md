@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:640/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Berraies Bechir</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="cat" width="400">
