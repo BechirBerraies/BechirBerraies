@@ -24,6 +24,13 @@
 
 <p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?BechirBerraies" frameborder="0"></iframe></p>
 
+<p>
+<img  src="https://ionicabizau.github.io/github-profile-languages/api.html?BechirBerraies" />
+
+
+  
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bechirberraies&show_icons=true&locale=en" alt="bechirberraies" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bechirberraies&" alt="bechirberraies" /></p>
